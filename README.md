@@ -61,6 +61,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **With MIT Media Lab Automated Autonomous Legal Entities Working Group:**
   * Publishing DAO Scenario Hacking: https://hackmd.io/AVy2rUZeRWKf285W61aftw?view
   * DAO Legal Scenario Hacking: https://hackmd.io/7JZ6BpNMT5i1goVmKOoamQ?both
+* [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+
 
 
 ## License
